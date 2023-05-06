@@ -12,10 +12,10 @@ Many of my projects in GitHub were developed over the course of the bootcamp, wh
 [![Anurag's GitHub stats](https://github-readme-stats.chimid.rocks?username=moojigc&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favorite Programming Language?
-Python.
+Go!
 
 ### Most Hated Programming Language?
 JavaScript... TypeScript is ok though.
 
-### Favorite JavaScript framework?
-Astro because it's *blazingly fast* 🔥🔥🔥
+### Favorite JavaScript framework of the day?
+Astro for SSG with Svelte on the client-side.
