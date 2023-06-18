@@ -9,7 +9,7 @@ I have a B.A. in Economics from New York University and a certificate in Full St
 
 Many of my projects in GitHub were developed over the course of the bootcamp, which focused on the MERN stack (MongoDB/MySQL, Express.js, React, Node.js).
 
-[![Anurag's GitHub stats](https://github-readme-stats.chimid.rocks?username=moojigc&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.chimid.com?username=moojigc&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favorite Programming Language?
 Go & Python!
