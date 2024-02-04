@@ -2,6 +2,8 @@
 ### Current
 I'm a Software Engineer at Unite Us, a technology company that builds coordinated care networks of health and social service providers. I focus on creating highly-scalable, distributed cloud-based applications.
 
+In my spare time, I want to make games!
+
 ### Background
 Prior to that, I was a software engineer at Salusion, where I developed a tech-based solution for Health Savings Accounts (HSAs) and Health Reimbursement Agreements (HRAs).
 
@@ -12,10 +14,10 @@ Many of my projects in GitHub were developed over the course of the bootcamp, wh
 [![Anurag's GitHub stats](https://github-readme-stats.chimid.com?username=moojigc&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favorite Programming Language?
-Go & Python!
+Ruby, Go, Python. Probably in that order.
 
 ### Most Hated Programming Language?
-JavaScript... TypeScript is ok though.
+JavaScript...
 
 ### Favorite JavaScript framework of the day?
-Astro for SSG with Svelte on the client-side.
+Astro for SSG with Svelte for interactivity.
