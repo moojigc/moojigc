@@ -4,10 +4,10 @@ Visit my website at [moojigbc.com](https://moojigbc.com)
 ### Current
 I'm a Software Engineer at Unite Us, a technology company that builds coordinated care networks of health and social service providers. I focus on creating highly-scalable, distributed cloud-based applications.
 
-In my spare time, I want to make games!
+In my spare time, I'm learning about game development.
 
 ### Background
-Prior to that, I was a software engineer at Salusion, where I developed a tech-based solution for Health Savings Accounts (HSAs) and Health Reimbursement Agreements (HRAs).
+Previously, I was a software engineer at Salusion, where I developed a tech-based solution for Health Savings Accounts (HSAs) and Health Reimbursement Agreements (HRAs).
 
 I have a B.A. in Economics from New York University and a certificate in Full Stack Web Development from the UConn Coding Boot Camp, a 24-week intensive program where I learned the latest web development technologies and best practices for succeeding as a full stack web developer. 
 
