@@ -4,7 +4,7 @@ Visit my website at [mooji.gg](https://mooji.gg)
 ### Current
 I'm a Software Engineer at Unite Us, a technology company that builds coordinated care networks of health and social service providers. I focus on creating highly-scalable, distributed cloud-based applications.
 
-In my spare time, I'm learning about game development.
+In my spare time, I do random side projects.
 
 ### Background
 Previously, I was a software engineer at Salusion, where I developed a tech-based solution for Health Savings Accounts (HSAs) and Health Reimbursement Agreements (HRAs).
